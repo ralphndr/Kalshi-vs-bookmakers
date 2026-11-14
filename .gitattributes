@@ -1,2 +1,2 @@
-src/*.ipynb linguist-language=Python
-results/** linguist-generated=true
+*.ipynb linguist-language=Python
+
