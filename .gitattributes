@@ -1,1 +1,2 @@
-*.ipynb linguist-language=Python
+src/*.ipynb linguist-language=Python
+results/** linguist-generated=true
