@@ -1,0 +1,3 @@
+league,horizon,matches,brier_3way,paired_matches,median_mean_spread,draw_gap,mean_abs_sum_mid_deviation,model_rounded_fee_arbs,indicative_no_fee_arbs,hourly_complete_rows,hourly_model_fee_arbs,hourly_no_fee_arbs
+bundesliga,1d,387,0.565832881136951,383,0.013333333333333334,0.012364341085271322,0.004844961240310051,0,1,60603,0,185
+bundesliga,7d,383,0.5710969973890339,383,0.04,0.004686684073107044,0.026579634464751947,0,0,60603,0,185

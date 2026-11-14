@@ -1,0 +1,3 @@
+league,horizon,matches,brier_3way,paired_matches,median_mean_spread,draw_gap,mean_abs_sum_mid_deviation,model_rounded_fee_arbs,indicative_no_fee_arbs,hourly_complete_rows,hourly_model_fee_arbs,hourly_no_fee_arbs
+ligamx,1d,327,0.6278908256880734,137,0.013333333333333334,0.01758409785932721,0.011009174311926571,0,14,33230,0,837
+ligamx,7d,140,0.6527371428571429,137,0.05500000000000001,0.0066428571428571405,0.05042857142857141,0,0,33230,0,837

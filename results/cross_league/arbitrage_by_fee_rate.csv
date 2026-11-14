@@ -1,0 +1,8 @@
+fee rule,arbitrage hours
+"0% of P(1-P), unrounded",3931
+"1% of P(1-P), unrounded",3861
+"2% of P(1-P), unrounded",1176
+"3.5% of P(1-P), unrounded",312
+"5% of P(1-P), unrounded",103
+"7% of P(1-P), unrounded",32
+"7%, rounded up to the cent (Kalshi, 1 contract)",2
